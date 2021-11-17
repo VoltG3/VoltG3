@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VoltG3
 - 👀 I’m interested in - Full Stack
 - 🌱 I’m currently learning - HTML / CSS / JS / FIGMA
-- 🌱 I learned the basics before - C++ / MySQL / PHP / NETT
+- 🌱 I learned the basics before - C++ / MySQL / PHP / NETT / some Adobe Producter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - kristians.kodehode@gmail.com
 
