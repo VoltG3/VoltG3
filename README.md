@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VoltG3
 - 👀 I’m interested in - Full Stack
-- 🌱 I’m currently learning - JS(React) / JAVA(Spring-Boot) 
+- 🌱 I’m currently learning - JS(React) & JAVA(Spring-Boot) 
 - 🌱 I learned the basics before - C++ / HTML / CSS / NETT / DB / PHP / AdobePhotoshop / AdobePremiumPro / GooleSketchUp / FIGMA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - kristians.kodehode@gmail.com
